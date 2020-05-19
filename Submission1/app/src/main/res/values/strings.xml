@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Git</string>
+    <string name="icon_name">Github</string>
+    <string name="follow">Follow</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="about_me">About Me</string>
+    <string name="todo">TODO</string>
+</resources>
